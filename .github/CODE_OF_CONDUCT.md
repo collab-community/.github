@@ -66,5 +66,5 @@ Collab community maintainers who do not follow or enforce the Code of Conduct in
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
-
-# Regards Collab community
+**Regards**,
+	Collab-Community
