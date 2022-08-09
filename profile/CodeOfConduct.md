@@ -1,9 +1,10 @@
-# Contributor Covenant Code of Conduct
+<img align="center"> ![logo4](https://user-images.githubusercontent.com/96974600/178653970-e24b45d4-c6d6-455a-8c0e-fc852c1f9783.png) </img>
+# Code of Conduct
 
 ## Our Pledge
 
 In the interest of fostering an safe and welcoming environment, we as
-the Collab community member's team pledge to make participation in our project and
+the Collab community  team pledge to make participation in our project and
 our community a harassment-free experience for everyone, regardless of age, body
 size, disability, ethnicity, sex characteristics, gender identity, gender expression,
 level of experience, education, socio-economic status, nationality, personal
