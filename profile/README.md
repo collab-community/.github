@@ -4,6 +4,7 @@
 
 <img align="center"> ![logo4](https://user-images.githubusercontent.com/96974600/178653970-e24b45d4-c6d6-455a-8c0e-fc852c1f9783.png) </img>
 
+<h1 align="center">A community focused on empowring beginners via open source 🎉</h1>
 
 We as a community love open source, make pull requests, open issues, share ideas, help each other and make improvements!
 
